@@ -26308,19 +26308,19 @@ tr:first-child {
   background: var(--theme-color);
 }
 .banner1.nfl .banner-single-1 {
-  background: url(../images/banner/banner-bg12.jpg);
+  background: url(../images/banner/bn1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .banner1.nfl .banner-single-1_2 {
-  background: url(../images/banner/banner-bg13.jpg);
+  background: url(../images/banner/bn2.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .banner1.nfl .banner-single-3 {
-  background: url(../images/banner/banner-bg14.jpg);
+  background: url(../images/banner/bn3.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
