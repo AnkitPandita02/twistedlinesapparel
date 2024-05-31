@@ -27953,3 +27953,6 @@ span.copyright a {
 .item.small-post:hover .text-09 {
   display: block;
 }
+.banner-content {
+  display: none;
+}
