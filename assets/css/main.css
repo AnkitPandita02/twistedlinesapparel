@@ -26270,6 +26270,7 @@ tr:first-child {
 }
 .banner1.nfl .banner-bg::before {
   /* background: rgba(0, 0, 0, 0.8); */
+  background:none;
 }
 .banner1.nfl .banner-bg .banner-hero {
   position: absolute;
