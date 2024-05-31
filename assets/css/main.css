@@ -26269,7 +26269,7 @@ tr:first-child {
   display: none;
 }
 .banner1.nfl .banner-bg::before {
-  background: rgba(0, 0, 0, 0.8);
+  /* background: rgba(0, 0, 0, 0.8); */
 }
 .banner1.nfl .banner-bg .banner-hero {
   position: absolute;
