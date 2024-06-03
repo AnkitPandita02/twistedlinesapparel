@@ -47,6 +47,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&amp;display=swap");
 @import url("../fonts/rt-icons.ttf");
 @import url("../fonts/fa-brands-400.ttf");
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -84,17 +85,11 @@ span {
   display: inline-block;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-span,
-a {
+h1, h2, h3, h4, h5, h6, span, a {
   color: #111111;
   font-weight: 700;
   margin: 0;
+  font-family: "Audiowide", sans-serif;
 }
 
 p {
@@ -102,7 +97,7 @@ p {
   color: #999999;
   font-size: 16px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 @media (max-width: 1550px) {
   p {
@@ -963,7 +958,7 @@ i {
   margin: 0 auto;
   max-width: 580px;
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 .section-title-area.section-title-area2 .section-title {
   font-size: 60px;
@@ -5360,7 +5355,7 @@ td h4,
 th span,
 th h4 {
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 td span,
 th span {
@@ -15211,7 +15206,7 @@ tr:first-child {
   font-size: 15px;
   line-height: 24px;
   margin-bottom: 25px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 .footer .find-us {
   color: #fff;
@@ -15362,7 +15357,7 @@ tr:first-child {
   font-size: 14px;
   font-weight: 300;
   color: #7b7b7b;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
   -webkit-transform: translateY(-8px);
           transform: translateY(-8px);
 }
@@ -19000,7 +18995,7 @@ tr:first-child {
   color: #666666;
   font-weight: 300;
   padding-bottom: 40px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 .contact-area .container .contact-form .info-form {
   padding: 0;
@@ -19213,7 +19208,7 @@ tr:first-child {
   font-size: 15px;
   color: #666666;
   font-weight: 300;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
 }
 .contact-area .container .right-side .get-in-touch .contact ul li a {
   font-size: 15px;
@@ -27064,7 +27059,7 @@ tr:first-child {
 .rts-trending-news-section.volleyball .item .bottom-content .blog-catagory-tag {
   background: none;
   color: #6F7073;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -27132,7 +27127,7 @@ tr:first-child {
 .rts-trending-news-section.volleyball .right-side-items .rts-post-small .bottom-content .blog-catagory-tag {
   background: none;
   color: #6F7073;
-  font-family: "Roboto", sans-serif;
+  font-family: "Audiowide", sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
