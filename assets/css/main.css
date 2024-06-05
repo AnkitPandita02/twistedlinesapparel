@@ -8646,10 +8646,16 @@ tr:first-child {
   position: relative;
   z-index: 1;
 }
+.contact001{
+  background-image: url("../images/banner/baseball.png") !important;
+}
+.video-thumb {
+  width: 25vw;
+}
 .banner-bg::before {
   content: "";
   mix-blend-mode: multiply;
-  background-color: rgb(134, 0, 0);
+  /* background-color: rgb(134, 0, 0); */
   opacity: 0.902;
   position: absolute;
   top: 0;
@@ -8831,7 +8837,7 @@ tr:first-child {
 }
 
 .inner-page-banner {
-  background-image: url("../images/banner/bannerbg-inner.jpg");
+  background-image: url("../images/banner/slider.png");
   background-size: cover;
   background-position: bottom;
   padding-top: 260px;
