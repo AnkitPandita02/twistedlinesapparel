@@ -8652,6 +8652,9 @@ tr:first-child {
 .video-thumb {
   width: 25vw;
 }
+/* #video_playback{
+  display: none;
+} */
 .banner-bg::before {
   content: "";
   mix-blend-mode: multiply;
@@ -14043,6 +14046,11 @@ tr:first-child {
   bottom: 30px;
   left: 20px;
   z-index: 1;
+  transition: all .3s ease-in-out;
+  transform: translate(0px, 40px);
+}
+.contents-wrapper:hover{
+  transform: translate(0px, 0px) !important;
 }
 .rts-single-news-section .container .section-inner .item .contents-wrapper .contents .heading {
   margin-bottom: 10px;
@@ -26259,7 +26267,7 @@ tr:first-child {
 }
 
 .banner1.nfl .banner-bg {
-  padding: 225px 0;
+  padding: 315px 0;
 }
 @media (max-width: 576px) {
   .banner1.nfl .banner-bg {
